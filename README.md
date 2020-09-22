@@ -12,6 +12,10 @@
 - [Периодические поручения](https://github.com/DirectumCompany/rx-template-recurringactionitems) - репозиторий с шаблоном разработки "Периодические поручения".
 - [Подписка на изменение статуса документа](https://github.com/DirectumCompany/rx-template-substodocchanges) - репозиторий с шаблоном разработки "Подписка на изменение статуса документа".
 
+## Утилиты
+- [Утилита импорта данных](https://github.com/DirectumCompany/rx-util-importdata) - репозиторий с утилитой импорта объектов из файлов Excel.
+- [Утилита переноса настройки](https://github.com/DirectumCompany/rx-util-transfer) - репозиторий с утилитой переноса настроечных данных между инсталляциями Directum RX.
+
 ---
 
 ![DIR5](https://www.directum.ru/application/images/logo-directum.svg)
