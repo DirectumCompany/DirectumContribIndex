@@ -11,6 +11,7 @@
 - [Массовый межкорпоративный документооборот](https://github.com/DirectumCompany/rx-prototypes-bulkexchange) - прототип решения по массовой обработке входящих и исходящих документов из сервисов обмена.
 - [Периодические поручения](https://github.com/DirectumCompany/rx-template-recurringactionitems) - репозиторий с шаблоном разработки "Периодические поручения".
 - [Подписка на изменение статуса документа](https://github.com/DirectumCompany/rx-template-substodocchanges) - репозиторий с шаблоном разработки "Подписка на изменение статуса документа".
+- [Прикладные константы](https://github.com/DirectumCompany/rx-template-settings) - репозиторий с шаблоном разработки "Прикладные константы".
 
 ## Утилиты :gear:
 - [Утилита импорта данных](https://github.com/DirectumCompany/rx-util-importdata) - репозиторий с утилитой импорта объектов из файлов Excel.
