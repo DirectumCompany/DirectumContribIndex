@@ -12,6 +12,7 @@
 - [Периодические поручения](https://github.com/DirectumCompany/rx-template-recurringactionitems) - репозиторий с шаблоном разработки "Периодические поручения".
 - [Подписка на изменение статуса документа](https://github.com/DirectumCompany/rx-template-substodocchanges) - репозиторий с шаблоном разработки "Подписка на изменение статуса документа".
 - [Прикладные константы](https://github.com/DirectumCompany/rx-template-settings) - репозиторий с шаблоном разработки "Прикладные константы".
+- [Вставка штрихкодов с конвертацией в PDF](https://github.com/DirectumCompany/rx-template-barcodehandler) - репозиторий с шаблоном разработки "Вставка штрихкодов с конвертацией в PDF".
 
 ## Утилиты :gear:
 - [Утилита импорта данных](https://github.com/DirectumCompany/rx-util-importdata) - репозиторий с утилитой импорта объектов из файлов Excel.
