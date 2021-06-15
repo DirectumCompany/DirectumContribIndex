@@ -18,6 +18,7 @@
 ## Утилиты :gear:
 - [Утилита импорта данных](https://github.com/DirectumCompany/rx-util-importdata) - репозиторий с утилитой импорта объектов из файлов Excel.
 - [Утилита переноса настройки](https://github.com/DirectumCompany/rx-util-transfer) - репозиторий с утилитой переноса настроечных данных между инсталляциями Directum RX.
+- [Утилита просмотра JSON-логов](https://github.com/DirectumCompany/DirectumLogViewer) - репозиторий с утилитой просмотра JSON-логов сервисов Directum RX.
 
 ---
 
