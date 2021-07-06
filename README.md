@@ -15,6 +15,9 @@
 - [Вставка штрихкодов с конвертацией в PDF](https://github.com/DirectumCompany/rx-template-barcodehandler) - репозиторий с шаблоном разработки "Вставка штрихкодов с конвертацией в PDF".
 - [Эскалация заданий](https://github.com/DirectumCompany/rx-template-assignmentescalation) - репозиторий с шаблоном разработки "Эскалация заданий".
 
+## Шаблоны разработки и прототипы для госорганов :page_facing_up:
+- [Шаблоны поручений](https://github.com/DirectumCompany/rx-template-actionexecutiontemplate) - репозиторий с шаблоном разработки "Шаблоны поручений".
+
 ## Утилиты :gear:
 - [Утилита импорта данных](https://github.com/DirectumCompany/rx-util-importdata) - репозиторий с утилитой импорта объектов из файлов Excel.
 - [Утилита переноса настройки](https://github.com/DirectumCompany/rx-util-transfer) - репозиторий с утилитой переноса настроечных данных между инсталляциями Directum RX.
