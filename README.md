@@ -17,6 +17,7 @@
 
 ## Шаблоны разработки и прототипы для госорганов :page_facing_up:
 - [Шаблоны поручений](https://github.com/DirectumCompany/rx-template-actionexecutiontemplate) - репозиторий с шаблоном разработки "Шаблоны поручений".
+- [Отчеты для госорганов](https://github.com/DirectumCompany/rx-template-govreports) - репозиторий с шаблоном разработки "Отчеты для госорганов".
 
 ## Утилиты :gear:
 - [Утилита импорта данных](https://github.com/DirectumCompany/rx-util-importdata) - репозиторий с утилитой импорта объектов из файлов Excel.
