@@ -16,6 +16,7 @@
 - [Эскалация заданий](https://github.com/DirectumCompany/rx-template-assignmentescalation) - репозиторий с шаблоном разработки "Эскалация заданий".
 
 ## Шаблоны разработки и прототипы для госорганов :page_facing_up:
+- [Примеры перекрытия разработки](https://github.com/DirectumCompany/rx-govexamples) - репозиторий с примерами перекрытия прикладной разработки.
 - [Шаблоны поручений](https://github.com/DirectumCompany/rx-template-actionexecutiontemplate) - репозиторий с шаблоном разработки "Шаблоны поручений".
 - [Отчеты для госорганов](https://github.com/DirectumCompany/rx-template-govreports) - репозиторий с шаблоном разработки "Отчеты для госорганов".
 
