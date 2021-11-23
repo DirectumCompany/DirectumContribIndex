@@ -2,9 +2,8 @@
 # Репозиторий решений Directum
 Решения и прототипы Directum.
 
+![DIR5](https://www.directum.ru/application/images/logo-directum.svg)
 ---
-
-![RX](https://www.directum.ru/application/images/logo-rx.svg)
 
 ## Шаблоны разработки и прототипы :page_facing_up:
 - [Примеры перекрытия разработки](https://github.com/DirectumCompany/rx-examples) - репозиторий с примерами перекрытия прикладной разработки.
@@ -30,5 +29,11 @@
 - [Утилита для поиска нелегалов](https://github.com/DirectumCompany/rx-util-codeanalyzer) - репозиторий с утилитой для поиска нелегалов в коде разработки.
 
 ---
+![МайТек](https://www.directum.ru/application/images/catalog/3551413.PNG)
+---
 
-![DIR5](https://www.directum.ru/application/images/logo-directum.svg)
+## Шаблоны разработки и прототипы :page_facing_up:
+- [Массовая выдача прав на папку и ее вложения](https://github.com/DirectumCompany/rx-template-massissuancerights) - репозиторий с шаблоном разработки "Массовая выдача прав на папку и ее вложения"
+
+---
+![RX](https://www.directum.ru/application/images/logo-rx.svg)
