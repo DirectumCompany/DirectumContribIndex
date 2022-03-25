@@ -22,7 +22,7 @@
 - [Отчеты для госорганов](https://github.com/DirectumCompany/rx-template-govreports) - репозиторий с шаблоном разработки "Отчеты для госорганов".
 
 ## Утилиты :gear:
-- [Утилита импорта данных](https://github.com/DirectumCompany/rx-util-importdata) - репозиторий с утилитой импорта объектов из файлов Excel.
+- [Утилита импорта данных](https://github.com/DirectumCompany/rx-util-importdata-net-core) - репозиторий с утилитой импорта объектов из файлов Excel.
 - [Утилита экспорта данных из DIRECTUM 5](https://github.com/DirectumCompany/d5-util-export-data) (дополнительный механизм для [Утилиты импорта данных](https://github.com/DirectumCompany/rx-util-importdata)) - репозиторий с механизмом экспорта исторических данных из Directum 5 в xlsx-документ.
 - [Утилита переноса настройки](https://github.com/DirectumCompany/rx-util-transfer) - репозиторий с утилитой переноса настроечных данных между инсталляциями Directum RX.
 - [Утилита просмотра JSON-логов](https://github.com/DirectumCompany/DirectumLogViewer) - репозиторий с утилитой просмотра JSON-логов сервисов Directum RX.
