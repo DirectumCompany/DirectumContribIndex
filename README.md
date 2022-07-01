@@ -36,7 +36,7 @@
 - [Массовая выдача прав на папку и ее вложения](https://github.com/DirectumCompany/rx-template-massissuancerights) - репозиторий с шаблоном разработки "Массовая выдача прав на папку и ее вложения"
 
 ---
-![Старков](https://www.directum.ru/application/images/catalog/3381184.PNG)
+![Старков](https://www.directum.ru/images/organisation/00307998-748e-4892-abb4-f15e36b90a85.png)
 ---
 
 ## Шаблоны разработки и прототипы :page_facing_up:
