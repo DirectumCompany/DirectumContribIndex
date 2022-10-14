@@ -13,6 +13,7 @@
 - [Прикладные константы](https://github.com/DirectumCompany/rx-template-settings) - репозиторий с шаблоном разработки "Прикладные константы".
 - [Вставка штрихкодов с конвертацией в PDF](https://github.com/DirectumCompany/rx-template-barcodehandler) - репозиторий с шаблоном разработки "Вставка штрихкодов с конвертацией в PDF".
 - [Эскалация заданий](https://github.com/DirectumCompany/rx-template-assignmentescalation) - репозиторий с шаблоном разработки "Эскалация заданий".
+- [Прикладной HTTP клиент](https://github.com/DirectumCompany/rx-template-appliedhttpclient) - репозиторий с шаблоном разработки "Прикладной HTTP клиент".
 
 ## Шаблоны разработки и прототипы для госорганов :page_facing_up:
 - [Примеры перекрытия разработки](https://github.com/DirectumCompany/rx-govexamples) - репозиторий с примерами перекрытия прикладной разработки.
