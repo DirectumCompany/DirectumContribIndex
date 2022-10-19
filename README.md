@@ -14,6 +14,7 @@
 - [Вставка штрихкодов с конвертацией в PDF](https://github.com/DirectumCompany/rx-template-barcodehandler) - репозиторий с шаблоном разработки "Вставка штрихкодов с конвертацией в PDF".
 - [Эскалация заданий](https://github.com/DirectumCompany/rx-template-assignmentescalation) - репозиторий с шаблоном разработки "Эскалация заданий".
 - [Прикладной HTTP клиент](https://github.com/DirectumCompany/rx-template-appliedhttpclient) - репозиторий с шаблоном разработки "Прикладной HTTP клиент".
+- [Микросервис с API интерфейсом](https://github.com/DirectumCompany/rx-template-microservice) - репозиторий с шаблоном разработки "Заказной микросервис с API интерфейсом".
 
 ## Шаблоны разработки и прототипы для госорганов :page_facing_up:
 - [Примеры перекрытия разработки](https://github.com/DirectumCompany/rx-govexamples) - репозиторий с примерами перекрытия прикладной разработки.
@@ -29,6 +30,8 @@
 - [Утилита переноса настройки](https://github.com/DirectumCompany/rx-util-transfer-net-core) - репозиторий с утилитой переноса настроечных данных между инсталляциями Directum RX для версии 4.2 и выше.
 - [Утилита просмотра JSON-логов](https://github.com/DirectumCompany/DirectumLogViewer) - репозиторий с утилитой просмотра JSON-логов сервисов Directum RX.
 - [Утилита для поиска нелегалов](https://github.com/DirectumCompany/rx-util-codeanalyzer) - репозиторий с утилитой для поиска нелегалов в коде разработки.
+- [Компонента Manage Applied Projects](https://github.com/DirectumCompany/rx-manage-applied-projects) - компонента Manage Applied Projects для управления прикладными проектами.
+- [Утилита MetadataParser](https://github.com/DirectumCompany/MetadataParser) - репозиторий с утилитой контроля наполненности обязательных полей.
 
 ---
 ![МайТек](https://www.directum.ru/application/images/catalog/3551413.PNG)
