@@ -45,7 +45,7 @@
 ---
 
 ## Шаблоны разработки и прототипы :page_facing_up:
-- [Прикладные константы](https://github.com/DirectumCompany/rx-template-constants) - репозиторий с шаблоном разработки "Прикладные константы"
+- [Прикладные константы](https://github.com/STARKOV-Group/Constants) - репозиторий с шаблоном разработки "Прикладные константы"
 
 ---
 ![RX](https://www.directum.ru/application/images/logo-rx.svg)
