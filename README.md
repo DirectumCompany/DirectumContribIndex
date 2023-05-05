@@ -46,6 +46,9 @@
 
 ## Шаблоны разработки и прототипы :page_facing_up:
 - [Прикладные константы](https://github.com/STARKOV-Group/Constants) - репозиторий с шаблоном разработки "Прикладные константы"
+- [Генератор сущностей](https://github.com/STARKOV-Group/DrxFaker) - репозиторий с шаблоном разработки "Генератор сущностей"
 
+## Утилиты :gear:
+- [Утилита для анализ метаданных разработки](https://github.com/STARKOV-Group/MTDAnalyze) - репозиторий с утилитой для просмотра метаданных прикладной разработки Directum RX
 ---
 ![RX](https://www.directum.ru/application/images/logo-rx.svg)
