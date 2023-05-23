@@ -51,8 +51,6 @@
 ## Утилиты :gear:
 - [Утилита для анализ метаданных разработки](https://github.com/STARKOV-Group/MTDAnalyze) - репозиторий с утилитой для просмотра метаданных прикладной разработки Directum RX
 ---
-![RX](https://www.directum.ru/application/images/logo-rx.svg)
-
 
 ---
 ![Роса](https://www.directum.ru/images/organisation/6f41da74-3d7c-4ed0-86bf-20844d7fa469.jpg)
@@ -60,5 +58,8 @@
 
 ## Шаблоны разработки и прототипы :page_facing_up:
 - [Импорт данных с обложки модуля](https://github.com/DirectumCompany/rx-template-uploaddata-from-cover) - репозиторий с шаблоном разработки «Импорт данных с обложки модуля»
+
+![RX](https://www.directum.ru/application/images/logo-rx.svg)
+
 
 
