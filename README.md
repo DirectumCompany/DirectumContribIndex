@@ -56,7 +56,7 @@
 ---
 
 ## Шаблоны разработки и прототипы :page_facing_up:
-- [Импорт данных с обложки модуля](https://github.com/DirectumCompany/rx-template-uploaddata-from-cover) - репозиторий с шаблоном разработки «Импорт данных с обложки модуля»
+- [Загрузка данных из xlsx-файлов с обложки](https://github.com/DirectumCompany/rx-template-upload-data-ui) - репозиторий с шаблоном разработки «Загрузка данных из xlsx-файлов с обложки»
 
 ![RX](https://www.directum.ru/application/images/logo-rx.svg)
 
