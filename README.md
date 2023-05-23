@@ -52,7 +52,7 @@
 - [Утилита для анализ метаданных разработки](https://github.com/STARKOV-Group/MTDAnalyze) - репозиторий с утилитой для просмотра метаданных прикладной разработки Directum RX
 ---
 
-![Роса](https://www.directum.ru/images/organisation/6f41da74-3d7c-4ed0-86bf-20844d7fa469.jpg)
+![Роса](![6f41da74-3d7c-4ed0-86bf-20844d7fa469](https://github.com/DirectumCompany/DirectumContribIndex/assets/87016932/5afd3ddf-e14a-44c4-b799-061fe60276fa))
 ---
 
 ## Шаблоны разработки и прототипы :page_facing_up:
