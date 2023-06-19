@@ -22,6 +22,7 @@
 - [Шаблоны поручений](https://github.com/DirectumCompany/rx-template-actionexecutiontemplate) - репозиторий с шаблоном разработки "Шаблоны поручений".
 - [Печатная форма входящего письма](https://github.com/DirectumCompany/rx-template-inletterprintable) - репозиторий с шаблоном разработки "Печатная форма входящего письма".
 - [Отчеты для госорганов](https://github.com/DirectumCompany/rx-template-govreports) - репозиторий с шаблоном разработки "Отчеты для госорганов".
+- [Загрузка данных из xlsx-файлов с обложки](https://github.com/DirectumCompany/rx-template-upload-data-ui) - репозиторий с шаблоном разработки «Загрузка данных из xlsx-файлов с обложки».
 
 ## Утилиты :gear:
 - [Утилита импорта данных](https://github.com/DirectumCompany/rx-util-importdata-net-core) - репозиторий с утилитой импорта объектов из файлов Excel.
@@ -51,12 +52,6 @@
 ## Утилиты :gear:
 - [Утилита для анализ метаданных разработки](https://github.com/STARKOV-Group/MTDAnalyze) - репозиторий с утилитой для просмотра метаданных прикладной разработки Directum RX
 ---
-
-![Роса](https://github.com/DirectumCompany/DirectumContribIndex/assets/87016932/5afd3ddf-e14a-44c4-b799-061fe60276fa)
----
-
-## Шаблоны разработки и прототипы :page_facing_up:
-- [Загрузка данных из xlsx-файлов с обложки](https://github.com/DirectumCompany/rx-template-upload-data-ui) - репозиторий с шаблоном разработки «Загрузка данных из xlsx-файлов с обложки»
 
 ![RX](https://www.directum.ru/application/images/logo-rx.svg)
 
