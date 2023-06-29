@@ -35,6 +35,13 @@
 - [Утилита MetadataParser](https://github.com/DirectumCompany/MetadataParser) - репозиторий с утилитой контроля наполненности обязательных полей.
 
 ---
+![Акелон](https://habrastorage.org/getpro/moikrug/uploads/company/100/006/218/7/logo/medium_cc7ab0f76a4c35ac7f32c5e66ef7b027.jpeg)
+---
+
+## Шаблоны разработки и прототипы :page_facing_up:
+- [Матрица согласования](https://github.com/AkelonDev/ApprovalMatrix) - репозиторий с шаблоном разработки "Матрица согласования"
+
+---
 ![МайТек](https://www.directum.ru/application/images/catalog/3551413.PNG)
 ---
 
