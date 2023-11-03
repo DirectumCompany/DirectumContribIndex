@@ -15,6 +15,7 @@
 - [Эскалация заданий](https://github.com/DirectumCompany/rx-template-assignmentescalation) - репозиторий с шаблоном разработки "Эскалация заданий".
 - [Прикладной HTTP клиент](https://github.com/DirectumCompany/rx-template-appliedhttpclient) - репозиторий с шаблоном разработки "Прикладной HTTP клиент".
 - [Микросервис с API интерфейсом](https://github.com/DirectumCompany/rx-template-microservice) - репозиторий с шаблоном разработки "Заказной микросервис с API интерфейсом".
+- [Механизм очистки дублей контрагентов](https://github.com/DirectumCompany/rx-template-counterpartiescleaning) - репозиторий с шаблоном разработки "Механизм очистки дублей контрагентов".
 
 ## Шаблоны разработки и прототипы для госорганов :page_facing_up:
 - [Примеры перекрытия разработки](https://github.com/DirectumCompany/rx-govexamples) - репозиторий с примерами перекрытия прикладной разработки.
