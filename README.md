@@ -42,6 +42,7 @@
 
 ## Шаблоны разработки и прототипы :page_facing_up:
 - [Матрица согласования](https://github.com/AkelonDev/ApprovalMatrix) - репозиторий с шаблоном разработки "Матрица согласования"
+- [Штампы](https://github.com/AkelonDev/Stamps) - репозиторий с шаблоном разработки "Штампы"
 
 ---
 ![МайТек](https://www.directum.ru/application/images/catalog/3551413.PNG)
@@ -49,6 +50,7 @@
 
 ## Шаблоны разработки и прототипы :page_facing_up:
 - [Массовая выдача прав на папку и ее вложения](https://github.com/DirectumCompany/rx-template-massissuancerights) - репозиторий с шаблоном разработки "Массовая выдача прав на папку и ее вложения"
+- [Автотексты](https://github.com/danilazyan95/Autotexts/tree/origin/feature_1) - репозиторий с шаблоном разработки "Автотексты"
 
 ---
 ![Старков](https://www.directum.ru/images/organisation/00307998-748e-4892-abb4-f15e36b90a85.png)
@@ -57,6 +59,7 @@
 ## Шаблоны разработки и прототипы :page_facing_up:
 - [Прикладные константы](https://github.com/STARKOV-Group/Constants) - репозиторий с шаблоном разработки "Прикладные константы"
 - [Генератор сущностей](https://github.com/STARKOV-Group/DrxFaker) - репозиторий с шаблоном разработки "Генератор сущностей"
+- [Производственный календарь](https://github.com/STARKOV-Group/CalendarExtensions) - репозиторий с шаблоном разработки "Производственный календарь"
 
 ## Утилиты :gear:
 - [Утилита для анализ метаданных разработки](https://github.com/STARKOV-Group/MTDAnalyze) - репозиторий с утилитой для просмотра метаданных прикладной разработки Directum RX
