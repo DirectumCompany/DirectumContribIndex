@@ -49,8 +49,8 @@
 ---
 
 ## Шаблоны разработки и прототипы :page_facing_up:
-- [Массовая выдача прав на папку и ее вложения](https://github.com/DirectumCompany/rx-template-massissuancerights) - репозиторий с шаблоном разработки "Массовая выдача прав на папку и ее вложения"
-- [Автотексты](https://github.com/danilazyan95/Autotexts/tree/origin/feature_1) - репозиторий с шаблоном разработки "Автотексты"
+- [Массовая выдача прав на папку и ее вложения](https://github.com/MTGroupDev/rx-template-massissuancerights) - репозиторий с шаблоном разработки "Массовая выдача прав на папку и ее вложения"
+- [Автотексты](https://github.com/MTGroupDev/Autotexts) - репозиторий с шаблоном разработки "Автотексты"
 
 ---
 ![Старков](https://www.directum.ru/images/organisation/00307998-748e-4892-abb4-f15e36b90a85.png)
