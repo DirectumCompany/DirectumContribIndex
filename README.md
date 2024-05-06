@@ -64,6 +64,14 @@
 
 ## Утилиты :gear:
 - [Утилита для анализ метаданных разработки](https://github.com/STARKOV-Group/MTDAnalyze) - репозиторий с утилитой для просмотра метаданных прикладной разработки Directum RX
+
+---
+![Танаис](https://www.directum.ru/images/organisation/df3b165a-5227-4b1f-9a67-3fc31ec48eb3.png)
+---
+
+## Шаблоны разработки и прототипы :page_facing_up:
+- [Интеграция с ЦБ РФ](https://github.com/TanaisCompany/rx-template-integrationcbrf) - репозиторий с шаблоном разработки "Интеграция с ЦБ РФ"
+- [Настройки интеграции](https://github.com/TanaisCompany/rx-template-integrationsettings) - репозиторий с шаблоном разработки "Настройки интеграции"
 ---
 
 ![RX](https://www.directum.ru/application/images/logo-rx.svg)
