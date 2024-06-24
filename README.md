@@ -46,6 +46,13 @@
 - [Штампы](https://github.com/AkelonDev/Stamps) - репозиторий с шаблоном разработки "Штампы"
 
 ---
+![Гарант-Чебоксары](https://www.directum.ru/images/organisation/d73f75f5-457c-4b10-8498-ac7df4d0395c.png)
+---
+
+## Шаблоны разработки и прототипы :page_facing_up:
+- [Интеграция с брокером сообщений Kafka](https://github.com/GarantCheboksaryDev/KafkaIntegration) - репозиторий с шаблоном разработки "Интеграция с брокером сообщений Kafka". Обертка KafkaNet для работы с Native-клиентом доступна по [ссылке](https://github.com/GarantCheboksaryDev/KafkaNet). 
+
+---
 ![МайТек](https://www.directum.ru/application/images/catalog/3551413.PNG)
 ---
 
