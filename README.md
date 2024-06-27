@@ -19,7 +19,7 @@
 - [Создание замещений](https://github.com/DirectumCompany/rx-template-substitutions) - репозиторий с шаблоном разработки "Создание замещений".
 
 ## Шаблоны разработки и прототипы для госорганов :page_facing_up:
-- [Примеры перекрытия разработки](https://github.com/DirectumCompany/rx-govexamples) - репозиторий с примерами перекрытия прикладной разработки.
+- [Примеры перекрытия разработки](https://github.com/DirectumCompany/rx-govexamples) - репозиторий с перекрытиями прикладной разработки.
 - [Отправка адресатам](https://github.com/DirectumCompany/rx-template-Transmitter) - репозиторий с шаблоном разработки "Отправка адресатам".
 - [Шаблоны поручений](https://github.com/DirectumCompany/rx-template-actionexecutiontemplate) - репозиторий с шаблоном разработки "Шаблоны поручений".
 - [Печатная форма входящего письма](https://github.com/DirectumCompany/rx-template-inletterprintable) - репозиторий с шаблоном разработки "Печатная форма входящего письма".
