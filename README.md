@@ -18,6 +18,7 @@
 - [Механизм очистки дублей контрагентов](https://github.com/DirectumCompany/rx-template-counterpartiescleaning) - репозиторий с шаблоном разработки "Механизм очистки дублей контрагентов".
 - [Создание замещений](https://github.com/DirectumCompany/rx-template-substitutions) - репозиторий с шаблоном разработки "Создание замещений".
 - [Интеграция с ФИАС](https://github.com/DirectumCompany/rx-template-fias) - репозиторий с шаблоном разработки "Интеграция с ФИАС".
+- [Шаблоны разработки интеграционных методов](https://github.com/DirectumCompany/rx-template-integrationtemplates) - шаблоны разработки интеграционных методов.
 
 ## Шаблоны разработки и прототипы для госорганов :page_facing_up:
 - [Примеры перекрытия разработки](https://github.com/DirectumCompany/rx-govexamples) - репозиторий с перекрытиями прикладной разработки.
