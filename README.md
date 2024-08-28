@@ -40,7 +40,7 @@
 - [Утилита MetadataParser](https://github.com/DirectumCompany/MetadataParser) - репозиторий с утилитой контроля наполненности обязательных полей.
 
 ---
-![Акелон](https://github.com/user-attachments/assets/b4b5cac8-47f1-42bc-baef-100f1a6f9804)
+![Акелон](https://github.com/user-attachments/assets/ca194ae1-3e6b-4798-9656-d3b499e83674)
 ---
 
 ## Шаблоны разработки и прототипы :page_facing_up:
