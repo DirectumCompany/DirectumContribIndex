@@ -46,6 +46,7 @@
 ## Шаблоны разработки и прототипы :page_facing_up:
 - [Матрица согласования](https://github.com/AkelonDev/ApprovalMatrix) - репозиторий с шаблоном разработки "Матрица согласования"
 - [Штампы](https://github.com/AkelonDev/Stamps) - репозиторий с шаблоном разработки "Штампы"
+- [Инструменты для работы с OpenXML](https://github.com/AkelonDev/OpenXML) - репозиторий с шаблоном разработки "Инструменты для работы с OpenXML"
 
 ---
 ![Гарант-Чебоксары](https://www.directum.ru/images/organisation/d73f75f5-457c-4b10-8498-ac7df4d0395c.png)
@@ -81,8 +82,15 @@
 ## Шаблоны разработки и прототипы :page_facing_up:
 - [Интеграция с ЦБ РФ](https://github.com/TanaisCompany/rx-template-integrationcbrf) - репозиторий с шаблоном разработки "Интеграция с ЦБ РФ"
 - [Настройки интеграции](https://github.com/TanaisCompany/rx-template-integrationsettings) - репозиторий с шаблоном разработки "Настройки интеграции"
+
+---
+![Центр внедрения документооборота](https://www.directum.ru/images/organisation/ddde32e2-9b1f-4fd0-996a-ccc07dfa15a8.png)
 ---
 
+## Шаблоны разработки и прототипы :page_facing_up:
+- [Авторегистрация документов](https://github.com/CentrVD-dev/AutoRegistrationBlock) - репозиторий с шаблоном разработки "Авторегистрация документов"
+
+---
 ![RX](https://www.directum.ru/application/images/logo-rx.svg)
 
 
