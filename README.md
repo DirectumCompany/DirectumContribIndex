@@ -19,6 +19,7 @@
 - [Создание замещений](https://github.com/DirectumCompany/rx-template-substitutions) - репозиторий с шаблоном разработки "Создание замещений".
 - [Интеграция с ФИАС](https://github.com/DirectumCompany/rx-template-fias) - репозиторий с шаблоном разработки "Интеграция с ФИАС".
 - [Шаблоны разработки интеграционных методов](https://github.com/DirectumCompany/rx-template-integrationtemplates) - набор шаблонов кода и шаблонов разработки, которые можно брать за основу при реализации интеграционных методов.
+- [Согласование от реестра](https://github.com/DirectumCompany/rx-template-approval-from-registry) - репозиторий с шаблоном разработки "Согласование от реестра"
 
 ## Шаблоны разработки и прототипы для госорганов :page_facing_up:
 - [Примеры перекрытия разработки](https://github.com/DirectumCompany/rx-govexamples) - репозиторий с перекрытиями прикладной разработки.
