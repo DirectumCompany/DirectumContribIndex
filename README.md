@@ -67,6 +67,13 @@
 - [Поиск связей сущности](https://github.com/MTGroupDev/rx-template-entityrelationshipsearch) - репозиторий с шаблоном разработки "Поиск связей сущности".
 
 ---
+![Софтлайн](https://infotex72.ru/upload/iblock/f68/510wy02c17d0aptq5f1iwihktitcapwp.png)
+---
+
+## Шаблоны разработки и прототипы :page_facing_up:
+- [Журнал запросов](https://github.com/SoftlineDevGroup/RequestLog) - репозиторий с шаблоном разработки для реализации интеграции с внешними системами на базе очередей
+
+---
 ![Старков](https://www.directum.ru/images/organisation/00307998-748e-4892-abb4-f15e36b90a85.png)
 ---
 
