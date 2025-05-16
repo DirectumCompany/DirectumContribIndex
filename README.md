@@ -54,7 +54,8 @@
 ---
 
 ## Шаблоны разработки и прототипы :page_facing_up:
-- [Интеграция с брокером сообщений Kafka](https://github.com/GarantCheboksaryDev/KafkaIntegration) - репозиторий с шаблоном разработки "Интеграция с брокером сообщений Kafka". Обертка KafkaNet для работы с Native-клиентом доступна по [ссылке](https://github.com/GarantCheboksaryDev/KafkaNet). 
+- [Интеграция с брокером сообщений Kafka](https://github.com/GarantCheboksaryDev/KafkaIntegration) - репозиторий с шаблоном разработки "Интеграция с брокером сообщений Kafka". Обертка KafkaNet для работы с Native-клиентом доступна по [ссылке](https://github.com/GarantCheboksaryDev/KafkaNet).
+- [Чат-бот Telegram](https://github.com/GarantCheboksaryDev/TelegramBotRX) - репозиторий с шаблоном разработки "Чат-бот Telegram". Код микросервиса для обработки сообщений доступен по [ссылке](https://github.com/GarantCheboksaryDev/TelegramBotIntegration)
 
 ---
 ![МайТек](https://www.directum.ru/application/images/catalog/3551413.PNG)
