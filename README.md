@@ -92,6 +92,7 @@
 ## Шаблоны разработки и прототипы :page_facing_up:
 - [Интеграция с ЦБ РФ](https://github.com/TanaisCompany/rx-template-integrationcbrf) - репозиторий с шаблоном разработки "Интеграция с ЦБ РФ"
 - [Настройки интеграции](https://github.com/TanaisCompany/rx-template-integrationsettings) - репозиторий с шаблоном разработки "Настройки интеграции"
+- [Библиотека структур и методов для структурированного логирования](https://github.com/TanaisCompany/rx-template-structuredLogging) - репозиторий с реализацией подхода к структурированому логированию для упрощения последующего анализа работы системы в системах мониторинга
 
 ---
 ![Центр внедрения документооборота](https://www.directum.ru/images/organisation/ddde32e2-9b1f-4fd0-996a-ccc07dfa15a8.png)
