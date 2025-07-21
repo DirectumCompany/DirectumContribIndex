@@ -50,6 +50,13 @@
 - [Инструменты для работы с OpenXML](https://github.com/AkelonDev/OpenXML) - репозиторий с шаблоном разработки "Инструменты для работы с OpenXML"
 
 ---
+![AUXO](https://filearchive.cnews.ru/img/book/2022/11/17/auxo_log.png)
+---
+
+## Шаблоны разработки и прототипы :page_facing_up:
+- [Объекты Directum RX](https://github.com/auxo-team/DirectumObjects) - репозиторий с реализацией отчетов для анализа текущей разработки, в целях оценки конвертации, подготовки описаний для проектных решени и пр.
+  
+---
 ![Гарант-Чебоксары](https://www.directum.ru/images/organisation/d73f75f5-457c-4b10-8498-ac7df4d0395c.png)
 ---
 
