@@ -102,7 +102,8 @@
 - [Библиотека структур и методов для структурированного логирования](https://github.com/TanaisCompany/rx-template-structuredLogging) - репозиторий с реализацией подхода к структурированому логированию для упрощения последующего анализа работы системы в системах мониторинга
 
 ---
-![Центр внедрения документооборота](https://www.directum.ru/images/organisation/ddde32e2-9b1f-4fd0-996a-ccc07dfa15a8.png)
+<img width="200" height="100" alt="ЦВД" src="https://github.com/user-attachments/assets/9a490aaf-12d3-480b-ba2f-a4745ee6ba58" />
+
 ---
 
 ## Шаблоны разработки и прототипы :page_facing_up:
