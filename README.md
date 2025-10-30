@@ -46,6 +46,7 @@
 - [Утилита для поиска нелегалов](https://github.com/DirectumCompany/rx-util-codeanalyzer) - репозиторий с утилитой для поиска нелегалов в коде разработки.
 - [Компонента Manage Applied Projects](https://github.com/DirectumCompany/rx-manage-applied-projects) - компонента Manage Applied Projects для управления прикладными проектами.
 - [Утилита MetadataParser](https://github.com/DirectumCompany/MetadataParser) - репозиторий с утилитой контроля наполненности обязательных полей.
+- [Отчет. Маппинг полей прикладной разработки](https://github.com/DirectumCompany/rx-template-mapping-fields) - репозиторий с решением "Отчет. Маппинг полей прикладной разработки".
 
 ---
 ![Акелон](https://github.com/user-attachments/assets/ca194ae1-3e6b-4798-9656-d3b499e83674)
