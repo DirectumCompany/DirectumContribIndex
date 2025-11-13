@@ -114,7 +114,10 @@
 
 ## Шаблоны разработки и прототипы :page_facing_up:
 - [Авторегистрация документов](https://github.com/CentrVD-dev/AutoRegistrationBlock) - репозиторий с шаблоном разработки "Авторегистрация документов"
+- [Голосование](https://github.com/CentrVD-dev/Voting) - репозиторий с шаблоном разработки для проведения внутренних голосований в организации
 
+## Утилиты :gear:
+ - [Кроссплатформенная утилита просмотра лог файлов](https://github.com/CentrVD-dev/DrxConsoleLogViewer) - утилита предназначена для просмотр логов системы Directum RX на основных пользовательских и серверных платформах через терминал: Windows, Linux (в том числе по ssh), MacOS
 ---
 ![RX](https://www.directum.ru/application/images/logo-rx.svg)
 
