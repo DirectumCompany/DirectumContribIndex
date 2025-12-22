@@ -79,7 +79,8 @@
 ## Шаблоны разработки и прототипы :page_facing_up:
 - [Массовая выдача прав на папку и ее вложения](https://github.com/MTGroupDev/rx-template-massissuancerights) - репозиторий с шаблоном разработки "Массовая выдача прав на папку и ее вложения"
 - [Автотексты](https://github.com/MTGroupDev/Autotexts) - репозиторий с шаблоном разработки "Автотексты"
-- [Поиск связей сущности](https://github.com/MTGroupDev/rx-template-entityrelationshipsearch) - репозиторий с шаблоном разработки "Поиск связей сущности".
+- [Поиск связей сущности](https://github.com/MTGroupDev/rx-template-entityrelationshipsearch) - репозиторий с шаблоном разработки "Поиск связей сущности"
+- [Отслеживание удалённых объектов](https://github.com/MTGroupDev/DeletedEntitiesTracking) - репозиторий с шаблоном разработки, предназначеным для мониторинга удалённых объектов в системе Directum RX
 
 ---
 <img width="220" height="110" alt="Софтлайн" src="https://softline.ru/local/templates/softline/assets/images/logo.svg" />
